@@ -1,5 +1,6 @@
 [![Flatris](flatris.png)](https://flatris.space/)
-Rafi new comment
+
+Rafi new comment fixed
 
 ![](https://github.com/skidding/flatris/workflows/ci/badge.svg)
 
